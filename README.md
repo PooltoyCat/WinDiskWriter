@@ -1,43 +1,14 @@
 <h1>WinDiskWriter</h1>
+<h2><i>Upcoming improvement fork!</i></h2>
 
-<p align="center">
-  <a href="https://github.com/TechUnRestricted/windiskwriter/releases"><img src="https://i.postimg.cc/X3tS32rs/Artboard.jpg"/></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/TechUnRestricted/windiskwriter/blob/main/license.md">
-    <img alt="License" src="https://img.shields.io/github/license/TechUnReStricted/windiskwriter">
-  </a>
-
-  <a href="https://github.com/TechUnRestricted/windiskwriter/releases">
-    <img alt="Releases" src="https://img.shields.io/github/downloads/TechUnRestricted/windiskwriter/total">
-  </a>
-  
-  <a href="https://github.com/TechUnRestricted/windiskwriter/releases">
-    <img alt="GitHub release (with filter)" src="https://img.shields.io/github/v/release/TechUnRestricted/windiskwriter">
-  </a>
-
-  <a href="#">
-    <img alt="Code Size in Bytes" src="https://img.shields.io/github/languages/code-size/TechUnRestricted/windiskwriter">
-  </a>
-
-  <a href="https://github.com/TechUnRestricted/windiskwriter/issues">
-    <img alt="Issues" src="https://img.shields.io/github/issues/TechUnRestricted/windiskwriter">
-  </a>
+  <p align="center">
+  <a href="https://github.com/PooltoyCat/windiskwriter/releases"><img src="https://i.postimg.cc/X3tS32rs/Artboard.jpg"/></a>
 </p>
 
 <h2 align="center">Windows USB Disk Creator for macOS</h2>
 
-<div align="center">
-  <pre style="display: inline-block; text-align: left;">
-    💖 Hey there! If you like my work, please <b><a href="#%EF%B8%8F-support-me-%EF%B8%8F-donations">support me financially!</a></b> 💖</pre></div>
+<b>NOTE: This project is unaffiliated with any website claiming to be for WinDiskWriter!</b>
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/TechUnRestricted">
-    <img src="BuyMeCoffee.svg" />
-  </a>
-<p>
-  
 You can use this app to create bootable universal USB <strong>Windows installers</strong> that supports both <strong>UEFI</strong> and <strong>Legacy BIOS</strong> modes.<br>
 With this USB drive, you can install and enjoy <strong>Windows</strong> on your <strong>PC</strong>, <strong>Intel Mac</strong> or certain <strong>Virtual Machines</strong>.
 
@@ -57,7 +28,6 @@ With this USB drive, you can install and enjoy <strong>Windows</strong> on your 
   </li>
   <li><a href="#planned-changes">Planned Changes</a></li>
   <li><a href="#additional-information">Additional Information</a></li>
-  <li><a href="#%EF%B8%8F-support-me-%EF%B8%8F-donations">❤️ Support Me ❤️ (Donations)</a></li>
   <li><a href="#authors">Authors</a></li>
   <li><a href="#software-used">Software Used</a></li>
 </ol>
@@ -269,48 +239,23 @@ With this USB drive, you can install and enjoy <strong>Windows</strong> on your 
    <b>WinDiskWriter</b> optionally can use a <b>grub4dos</b> bootloader to enable Legacy BIOS Support. I would like to thank the developers of grub4dos for their great work.
 </p>
 
-<h2>❤️ Support Me ❤️ (Donations)</h2>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/TechUnRestricted" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/arial-red.png" alt="Buy Me A Coffee" style="width: 280px !important;" >
-  </a>
-</p>
-<ul>
-  <li>
-    Bitcoin (BTC): <b>bc1qe2z68uwgplxfzspdy5pnxhzza2spep0ryk5zeq</b>
-  </li>
-  <li>
-    Toncoin [TON]: <b>UQC-4xGw9jowk93dWXHVVTUpboe2hb6GT3W4g6yxn3hphCYc</b>
-  </li>
-  <li>
-    Etherium (ETH): <b>0x1410acAc3e0De885f4fb8C305a2F7B586d47c5ff</b>
-  </li>
-  <li>
-    BNB Beacon Chain (BNB): <b>bnb1h2svmvj9842xk49qjflza4q8yqn2kd9dsxp9h9</b>
-  </li>
-  <li>
-    Tether USD [USDT] (<b>E</b>RC20): <b>0x1410acAc3e0De885f4fb8C305a2F7B586d47c5ff</b>
-  </li>
-  <li>
-    Tether USD [USDT] (<b>T</b>RC20): <b>TMRsfsEDMNwA1KYRTFHT55SxcFxyYQVzoH</b>
-  </li>
-</ul>
-
 <h2>Authors</h2>
 <ul>
     <li>
-        <a href="https://www.github.com/TechUnRestricted">@TechUnRestricted</a>
+        <a href="https://www.github.com/PooltoyCat">@PooltoyCat</a>
+    </li>
+    <li>
+        <a href="https://www.github.com/TechUnrestricted">@TechUnrestricted</a>
     </li>
 </ul>
 
 <h2>Software Used</h2>
 <ul>
     <li>
-      <a href="https://wimlib.net/">wimlib</a> <sub><sup><a href="https://github.com/TechUnRestricted/windiskwriter/blob/main/libs/wimlib/License.txt">(GNU LESSER GENERAL PUBLIC LICENSE Version 3)</a></sup></sub>
+      <a href="https://wimlib.net/">wimlib</a> <sub><sup><a href="https://github.com/PooltoyCat/windiskwriter/blob/main/libs/wimlib/License.txt">(GNU LESSER GENERAL PUBLIC LICENSE Version 3)</a></sup></sub>
     </li>
   <li>
       <a href="https://github.com/chenall/grub4dos">grub4dos</a> <sub><sup><a href="https://github.com/chenall/grub4dos/blob/0.4.6a/COPYING">(GNU GENERAL PUBLIC LICENSE Version 2)</a><br>
         (grub4dos is a downloadable option in WinDiskWriter)</sup></sub>
     </li>
 </ul>
-
