@@ -1,0 +1,5 @@
+- Generalize project to be for all images, not just Windows
+- Improve speed of writing Windows images
+- Set up website
+- Drop backward compatibility - macOS 11+ new target
+- Start work on Linux port
